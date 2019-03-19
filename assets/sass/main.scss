@@ -755,6 +755,11 @@ $pattern-background-size: 25em;
 			color: _palette(two, fg);
 			padding: 4em;
 		}
+
+		&.style5 {
+			padding: 0;
+			text-align: center;
+		}
 	}
 
 /* Header */

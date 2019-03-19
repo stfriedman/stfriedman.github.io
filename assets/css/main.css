@@ -2234,6 +2234,10 @@ input, select, textarea {
 			padding: 4em;
 		}
 
+			.wrapper.style1 {
+			padding: 0;
+		}
+
 /* Header */
 
 	@-moz-keyframes reveal-header {
