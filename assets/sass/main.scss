@@ -470,18 +470,18 @@ $pattern-background-size: 25em;
 				}
 			}
 
-			&.fa-facebook {
-				background: _palette(facebook, bg);
-				color: _palette(facebook, fg);
+			&.fa-envelope-o {
+				background: _palette(envelope-o, bg);
+				color: _palette(envelope-o, fg);
 
 				&:hover {
 					background: lighten(_palette(facebook, bg), 4);
 				}
 			}
 
-			&.fa-google-plus {
-				background: _palette(google-plus, bg);
-				color: _palette(google-plus, fg);
+			&.fa-google {
+				background: _palette(google, bg);
+				color: _palette(google, fg);
 
 				&:hover {
 					background: lighten(_palette(google-plus, bg), 4);
@@ -497,14 +497,7 @@ $pattern-background-size: 25em;
 				}
 			}
 
-			&.fa-dribbble {
-				background: _palette(dribbble, bg);
-				color: _palette(dribbble, fg);
-
-				&:hover {
-					background: lighten(_palette(dribbble, bg), 4);
-				}
-			}
+			
 		}
 
 		&.featured {
