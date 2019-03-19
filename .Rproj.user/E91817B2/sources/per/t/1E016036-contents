@@ -1,0 +1,15 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+
+<br>
+<center># Sarah Friedman
+<center>### Ecology, Evolution, and Ichthyology
+
+
+<center>![Picture caption](images/pic.jpg){width=250px}
+
+<br>
+I am a fourth year ecology PhD candidate in the Wainwright Lab at UC Davis. I am broadly interested in the underlying ecological mechanisms that shape the evolution and diversification of marine fishes. Over 30,000 species of fish exist today, representing one of the most morphologically diverse and speciose systems on the planet. Why, then, are there thousands of cichlids, yet only two existing coelacanth species? Moreover, what mechanisms have driven an ocean sunfish and a tuna to look so different even though they both occupy the same pelagic habitat? My work combines aspects from functional morphology, phylogenetics, and comparative methods to lend insight into the selective pressures driving morphological diversification.

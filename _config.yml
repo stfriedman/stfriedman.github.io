@@ -1,0 +1,15 @@
+# Site settings
+title: Sarah Friedman
+email: sfriedman@ucdavis.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Sarah Friedman is a Ph.D. candidate at the University of California, Davis in Peter Wainwright's lab. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sfriedman.github.io" # the base hostname & protocol for your site
+twitter_username: sarahtfried
+github_username:  stfriedman
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
