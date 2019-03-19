@@ -475,7 +475,7 @@ $pattern-background-size: 25em;
 				color: _palette(envelope-o, fg);
 
 				&:hover {
-					background: lighten(_palette(facebook, bg), 4);
+					background: lighten(_palette(envelope-o, bg), 4);
 				}
 			}
 
@@ -484,7 +484,7 @@ $pattern-background-size: 25em;
 				color: _palette(google, fg);
 
 				&:hover {
-					background: lighten(_palette(google-plus, bg), 4);
+					background: lighten(_palette(google, bg), 4);
 				}
 			}
 
