@@ -176,7 +176,7 @@ input, select, textarea {
 		padding: 1em 0 1em 2em;
 	}
 
-/* Container */
+/* */
 
 	.container {
 		margin: 0 auto;
@@ -1927,21 +1927,21 @@ input, select, textarea {
 					background: #7fb7d2;
 				}
 
-			.icon.circle.fa-facebook {
+			.icon.circle.fa-envelope-o {
 				background: #7490c3;
 				color: #fff;
 			}
 
-				.icon.circle.fa-facebook:hover {
+				.icon.circle.fa-envelope-o:hover {
 					background: #829bc9;
 				}
 
-			.icon.circle.fa-google-plus {
+			.icon.circle.fa-google {
 				background: #db6b67;
 				color: #fff;
 			}
 
-				.icon.circle.fa-google-plus:hover {
+				.icon.circle.fa-google:hover {
 					background: #df7b77;
 				}
 
