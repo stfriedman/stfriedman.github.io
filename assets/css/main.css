@@ -1185,7 +1185,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 30px 0 0 30px;
+						padding: 10px 0 0 10px;
 					}
 
 					.row.gtr-uniform {
@@ -2176,8 +2176,7 @@ input, select, textarea {
 		button.small,
 		.button.small {
 			font-size: 0.7em;
-			min-width: 14em;
-			padding: 0.5em 0;
+			min-width: 10em;
 		}
 
 /* Wrapper */
@@ -2228,6 +2227,7 @@ input, select, textarea {
 				}
 
 		.wrapper.style3 {
+			background: #f3f6fa8a;
 			color: inherit;
 		}
 
@@ -2613,7 +2613,7 @@ input, select, textarea {
 	#footer {
 		background: #E8EEF4;
 		color: #7c8081;
-		padding: 5em 5em 10em 5em;
+		padding: 5em 5em 5em 5em;
 		text-align: center;
 	}
 
@@ -2717,7 +2717,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: 4em;
+				padding: 1em;
 			}
 
 	}
@@ -3305,3 +3305,4 @@ input, select, textarea {
 			}
 
 	}
+}
