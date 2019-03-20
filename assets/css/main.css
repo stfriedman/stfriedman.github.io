@@ -178,8 +178,7 @@ input, select, textarea {
 
 /* */
 
-	.
-	 {
+	.container {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
@@ -1955,7 +1954,14 @@ input, select, textarea {
 					background: #e1b89b;
 				}
 
-		
+			.icon.circle.fa-dribbble {
+				background: #da83ae;
+				color: #fff;
+			}
+
+				.icon.circle.fa-dribbble:hover {
+					background: #df93b8;
+				}
 
 		.icon.featured {
 			cursor: default;
@@ -2233,10 +2239,6 @@ input, select, textarea {
 			background: #fff;
 			color: inherit;
 			padding: 4em;
-		}
-
-			.wrapper.style1 {
-			padding: 0;
 		}
 
 /* Header */
