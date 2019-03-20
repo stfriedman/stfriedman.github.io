@@ -2185,8 +2185,8 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		margin-bottom: 5em;
-		padding: 5em;
+		margin-bottom: 1em;
+		padding: 1em;
 	}
 
 		.wrapper.style1 {
@@ -2690,7 +2690,7 @@ input, select, textarea {
 
 			.wrapper {
 				margin-bottom: 0em;
-				padding: 3em 0em;
+				padding: 1em 0 0em 0;
 			}
 
 				.wrapper.style4 {
