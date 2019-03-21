@@ -2220,7 +2220,7 @@ input, select, textarea {
 			.wrapper.style2 .button.primary {
 				background: #fff;
 				border-color: #fff;
-				color: #83d3c9 !important;
+				color: #fff !important;
 			}
 
 				.wrapper.style2 input[type="button"].primary:hover,
