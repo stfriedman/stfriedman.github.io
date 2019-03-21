@@ -2128,7 +2128,7 @@ input, select, textarea {
 		letter-spacing: 2px;
 		min-width: 18em;
 		padding: 0 0.75em;
-		line-height: 3.75em;
+		line-height: 3.00em;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -2176,14 +2176,17 @@ input, select, textarea {
 		button.small,
 		.button.small {
 			font-size: 0.7em;
-			min-width: 10em;
+			min-width: 5em;
+			max-height: 3em;
+			margin-top : 15px;
 		}
 
 /* Wrapper */
 
 	.wrapper {
-		margin-bottom: 1em;
-		padding: 1em;
+		margin-bottom: 2em;
+		margin-top: 2em;
+		padding: 2em 2em 2em 2em;
 	}
 
 		.wrapper.style1 {
@@ -2191,12 +2194,15 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #ffffff1a;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
-			color: #fff;
+			color: #645862;
+			border-style: double;
+   			border-width: thin;
+    		border-radius: 5px;
 		}
 
 			.wrapper.style2 input[type="button"]:hover,
@@ -2389,7 +2395,7 @@ input, select, textarea {
 			background: #1f4b61;
 			box-shadow: none;
 			color: #fff;
-			padding: 1em 2.5em;
+			padding: 1em 2.5em 0em 1em;
 			position: absolute;
 		}
 
@@ -2687,8 +2693,9 @@ input, select, textarea {
 		/* Wrapper */
 
 			.wrapper {
-				margin-bottom: 0em;
-				padding: 1em 0em 0em 0em;
+				margin-bottom: 2em;
+				margin-top: 2em;
+				padding: 2em;
 			}
 
 				.wrapper.style4 {
