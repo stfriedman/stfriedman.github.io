@@ -2148,8 +2148,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		button.primary,
 		.button.primary {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #3a87ad;
 			color: #fff !important;
 		}
 
@@ -2186,7 +2185,7 @@ input, select, textarea {
 	.wrapper {
 		margin-bottom: 2em;
 		margin-top: 2em;
-		padding: 2em 2em 2em 2em;
+		padding: 2em 2em 0.01em 2em;
 	}
 
 		.wrapper.style1 {
@@ -2240,7 +2239,6 @@ input, select, textarea {
 		.wrapper.style4 {
 			background: #f3f6fa8a;
 			color: inherit;
-			padding: 4em;
 		}
 
 /* Header */
@@ -2699,7 +2697,7 @@ input, select, textarea {
 			}
 
 				.wrapper.style4 {
-					padding: 3em;
+					padding: 0em;
 				}
 
 		/* Header */
@@ -3313,3 +3311,4 @@ input, select, textarea {
 
 	}
 }
+
