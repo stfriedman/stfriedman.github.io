@@ -2852,7 +2852,7 @@ input, select, textarea {
 			button.small,
 			.button.small {
 				font-size: 0.8em;
-				min-width: 18em;
+				max-width: 7em;
 				padding: 0.75em 0;
 			}
 
