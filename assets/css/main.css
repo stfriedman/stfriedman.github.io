@@ -2150,6 +2150,7 @@ input, select, textarea {
 		.button.primary {
 			background: #3a87ad;
 			color: #fff !important;
+			border-color: #3a87ad;
 		}
 
 			input[type="button"].primary:hover,
