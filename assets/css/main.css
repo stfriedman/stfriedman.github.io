@@ -2113,6 +2113,49 @@ input, select, textarea {
 
 /* Button */
 
+
+	input[type="button"],
+	input[type="submit"],
+	input[type="reset"],
+	button,
+	.button1 {
+		-moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+	  	background: #636567;
+	  	border-color: #636567;
+	  	color: #fff;
+		border-radius: 0;
+		cursor: pointer;
+		display: inline-block;
+		font-size: 0.8em;
+		font-weight: 900;
+		letter-spacing: 2px;
+		min-width: 18em;
+		padding: 0 0.75em;
+		line-height: 3.00em;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+		input[type="button"]:hover,
+		input[type="submit"]:hover,
+		input[type="reset"]:hover,
+		button:hover,
+			.button1:hover {
+			  background-color: #a7aaad;
+			  color: #fff;
+			  border-color: #a7aaad;
+			}
+
+
+
 	input[type="button"],
 	input[type="submit"],
 	input[type="reset"],
@@ -2126,7 +2169,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
-		background: none;
+		background: inherit;
 		border: solid 1px;
 		border-radius: 0;
 		color: inherit;
@@ -2149,7 +2192,8 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			background: rgba(188, 202, 206, 0.15);
-			border-color: inherit;
+			border-color: #3a87ad;
+			color: #3a87ad;
 		}
 
 		input[type="button"].primary,
@@ -2219,7 +2263,7 @@ input, select, textarea {
 			.wrapper.style2 input[type="reset"]:hover,
 			.wrapper.style2 button:hover,
 			.wrapper.style2 .button:hover {
-				background: rgba(255, 255, 255, 0.15) !important;
+				background: #c3c3c3 !important;
 			}
 
 			.wrapper.style2 input[type="button"].primary,
