@@ -17,7 +17,7 @@ form, label, legend, table, caption, tbody,
 tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
-section, summary, time, mark, audio, video {
+section, summary, time, mark, audio, video{
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -71,6 +71,7 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+
 
 /* Basic */
 	html {
@@ -2142,6 +2143,8 @@ input, select, textarea {
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
+		max-width: 10em;
+
 	}
 
 		input[type="button"]:hover,
@@ -3367,4 +3370,3 @@ input, select, textarea {
 	}
 }
 
- 
