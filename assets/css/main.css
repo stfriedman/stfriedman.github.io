@@ -1685,7 +1685,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 10px 0 10px 30px;
+						padding: 20px 0 0px 30px;
 					}
 
 					.row.gtr-uniform {
@@ -2061,9 +2061,9 @@ input, select, textarea {
 		padding-left: 0;
 	}
 
-		ul.buttons:last-child {
+		/*ul.buttons:last-child {
 			margin-bottom: 0;
-		}
+		}*/
 
 		ul.buttons li {
 			display: inline-block;
@@ -2137,7 +2137,7 @@ input, select, textarea {
 		font-size: 0.8em;
 		font-weight: 900;
 		letter-spacing: 2px;
-		min-width: 18em;
+		min-width: 15em;
 		padding: 0 0.75em;
 		line-height: 3.00em;
 		text-align: center;
@@ -3184,10 +3184,6 @@ input, select, textarea {
 				letter-spacing: 0.025em;
 			}
 
-			p {
-				text-align: justify;
-			}
-
 		/* Section/Article */
 
 			header {
@@ -3269,7 +3265,7 @@ input, select, textarea {
 
 			.wrapper {
 				margin-bottom: 2.5em;
-				padding: 2.25em 1.5em;
+				padding: 1em 1.5em;
 			}
 
 				.wrapper.special br {
