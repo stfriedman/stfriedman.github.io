@@ -173,7 +173,7 @@ input, select, textarea {
 	hr {
      	display: block;
        position: relative;
-       padding: 10em 0em 40em 0em;
+       /*padding: 10em 0em 40em 0em;*/
        margin: 10px auto;
        height: 0;
        width: 100%;
@@ -1195,7 +1195,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 10px 0 0 10px;
+						padding: 20px 0 0 10px;
 					}
 
 					.row.gtr-uniform {
