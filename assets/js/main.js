@@ -40,6 +40,7 @@
 			expandMode: (browser.mobile ? 'click' : 'hover')
 		});
 
+
 	// Nav Panel.
 
 		// Button.
@@ -93,4 +94,6 @@
 
 		}
 
+
 })(jQuery);
+
