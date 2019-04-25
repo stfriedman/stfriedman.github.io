@@ -2196,7 +2196,7 @@ input, select, textarea {
 		.button:hover {
 			background: rgba(188, 202, 206, 0.15);
 			border-color: #3a87ad;
-			color: #3a87ad;
+			color: #ffffff;
 		}
 
 		input[type="button"].primary,
@@ -2754,7 +2754,7 @@ input, select, textarea {
 			}
 
 				.wrapper.style4 {
-					padding: 0em;
+					padding: 2.5em;
 				}
 
 		/* Header */
