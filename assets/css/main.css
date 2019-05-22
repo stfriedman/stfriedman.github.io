@@ -2491,6 +2491,7 @@ input, select, textarea {
 				border-left: solid 0.5em transparent;
 				border-right: solid 0.5em transparent;
 				content: '';
+				padding: 1em 0;
 				left: 0.75em;
 				position: absolute;
 				top: -0.45em;
