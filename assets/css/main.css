@@ -2254,7 +2254,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #ffffff1a;
+			background-color: #ffffff;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
